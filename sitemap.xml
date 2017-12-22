@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://startup.xmr.biz/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/competition/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/post/vivamus-lacus-mauris/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/post/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/service/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://startup.xmr.biz/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
