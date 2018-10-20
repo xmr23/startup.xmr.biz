@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on startup.xmr.biz - Monero Business Plan Competition</title>
-    <link>https://startup.xmr.biz/categories/</link>
-    <description>Recent content in Categories on startup.xmr.biz - Monero Business Plan Competition</description>
+    <title>Categories on monerostartup.com - Monero Startup Services</title>
+    <link>https://www.monerostartup.com/categories/</link>
+    <description>Recent content in Categories on monerostartup.com - Monero Startup Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://startup.xmr.biz/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.monerostartup.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

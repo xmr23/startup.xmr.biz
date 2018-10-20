@@ -3,65 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://startup.xmr.biz/about/</loc>
+    <loc>https://www.monerostartup.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/competition/</loc>
+    <loc>https://www.monerostartup.com/cat3/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/network/</loc>
+    <loc>https://www.monerostartup.com/cat4/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/resources/</loc>
-  </url>
-  
-  <url>
-    <loc>https://startup.xmr.biz/post/vivamus-lacus-mauris/</loc>
+    <loc>https://www.monerostartup.com/post/vivamus-lacus-mauris/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/service/service4/</loc>
+    <loc>https://www.monerostartup.com/service/service4/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/categories/</loc>
+    <loc>https://www.monerostartup.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/service/service3/</loc>
+    <loc>https://www.monerostartup.com/service/service3/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/service/service1/</loc>
+    <loc>https://www.monerostartup.com/service/service1/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/post/</loc>
+    <loc>https://www.monerostartup.com/post/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/service/</loc>
+    <loc>https://www.monerostartup.com/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/tags/</loc>
+    <loc>https://www.monerostartup.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/service/service2/</loc>
+    <loc>https://www.monerostartup.com/service/service2/</loc>
   </url>
   
   <url>
-    <loc>https://startup.xmr.biz/</loc>
+    <loc>https://www.monerostartup.com/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
